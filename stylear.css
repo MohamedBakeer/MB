@@ -225,8 +225,7 @@ section {
     color: #3A6CF4;
     padding: 10px;
     margin-top: 5px;
-    border-left: #3A6CF4 3px solid;
-    border-bottom: #3A6CF4 3px solid;
+
     border-radius: 10px;
     transition: 0.5s ease;
 }
@@ -234,11 +233,6 @@ section {
     color: white;
     background: #3A6CF4;
 }
-
-
-
-
-
 
 
 
